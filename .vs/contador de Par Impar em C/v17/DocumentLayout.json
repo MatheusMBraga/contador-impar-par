@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Desktop\\Programa\u00E7\u00E3o\\C#\\Projetos\\TesteC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C27CCBE-FC10-422B-8A83-54ECDDBEEC0D}|TesteC.vcxproj|C:\\Users\\mathe\\Desktop\\Programa\u00E7\u00E3o\\C#\\Projetos\\TesteC\\contador de Par Impar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C27CCBE-FC10-422B-8A83-54ECDDBEEC0D}|TesteC.vcxproj|solutionrelative:contador de Par Impar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contador de Par Impar.c",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Programa\u00E7\u00E3o\\C#\\Projetos\\TesteC\\contador de Par Impar.c",
+              "RelativeDocumentMoniker": "contador de Par Impar.c",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Programa\u00E7\u00E3o\\C#\\Projetos\\TesteC\\contador de Par Impar.c",
+              "RelativeToolTip": "contador de Par Impar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-24T01:19:23.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
